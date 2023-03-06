@@ -2,6 +2,7 @@
   "name": "todolist",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://tusshartyagi.github.io/to_do_list_by_react",
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
